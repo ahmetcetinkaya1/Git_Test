@@ -3,5 +3,6 @@ public class TestClass {
         System.out.println("GITTEN MERHABA");
         System.out.println("GIThubdan MERHABA");
         System.out.println("ee yine gitden merhaba");
+        System.out.println("ee yine githubdan merhaba");
     }
 }
